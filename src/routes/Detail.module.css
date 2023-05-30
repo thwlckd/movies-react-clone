@@ -2,6 +2,7 @@
   height: 100vh;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .loader {
@@ -14,7 +15,19 @@
   font-size: 50px;
 }
 
+.button__before {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-color: #eff3f7;
+  padding: 50px 50px;
+  border: none;
+  font-size: 50px;
+  cursor: pointer;
+}
+
 .movie {
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
