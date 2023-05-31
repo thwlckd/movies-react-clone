@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://thwlckd.github.io/movies-react-clone",
+  "homepage": "https://thwlckd.github.io/movies-react-clone/",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
